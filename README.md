@@ -1,2 +1,2 @@
-# Project-10
+# Sprint-10
 Data Analyst - This is my tenth project in the bootcamp TripleTen
